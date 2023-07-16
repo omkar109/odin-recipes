@@ -1,0 +1,1 @@
+This is a project completed through the odin project (https://www.theodinproject.com/lessons/foundations-recipes). It is a basic website created using html.
