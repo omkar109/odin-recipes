@@ -1,0 +1,26 @@
+*{
+    background-color: skyblue;
+    color:white;
+    text-align:center;
+}
+
+.image{
+    height:auto;
+    width:200px;
+}
+
+.header{
+    font-weight: bold;
+}
+
+ul, ol{
+    display: inline-block;
+}
+
+li{
+    text-align: left;
+}
+
+p, li{
+    font-size: 20px;
+}
